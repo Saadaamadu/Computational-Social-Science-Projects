@@ -1,0 +1,8 @@
+git clone https://github.com/Saadaamadu/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects
+mkdir Project1
+nano Project1
+then I wrote the commands as Kasey requested
+git add Project1
+git commit -m "Project1 assignment"
+git push
